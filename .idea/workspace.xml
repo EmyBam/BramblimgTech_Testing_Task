@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="188d1d79-c789-49e8-88d2-cde248aaf03c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/cat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/koala.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/owl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/penguin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pig.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/raccoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/sheep.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/persons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/boy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/videos/shoe.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/personActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/viewActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContentContainer/ContentContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContentContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContentViewSettings/ContentViewSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContentViewSettings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HOC/WithService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HOC/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LangSwitcher/LandSwitcher.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LangSwitcher/LangSwitcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LangSwitcher/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonTableItem/PersonsTableItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonTableItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsPreview/PersonsPreview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsPreview/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsPreviewItem/PersonsPreviewItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsPreviewItem/PersonsPreviewItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsPreviewItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsTable/PersonsTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonsTable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ServiceContext/ServiceContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ServiceContext/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SettingsItem/SettingItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SettingsItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortingSettings/SortingSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortingSettings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/headerConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/personDataConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/sortingConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/viewConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/personsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/viewReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/personService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/sorting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pkX8871wgfFrKGwLIkSFLxpgbm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src/components/ServiceContext" />
+      <recent name="$PROJECT_DIR$/src/components/App" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/constants" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/components/PersonsView" />
+      <recent name="$PROJECT_DIR$/src/reducers" />
+      <recent name="$PROJECT_DIR$/src/actions" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188d1d79-c789-49e8-88d2-cde248aaf03c" name="Default Changelist" comment="" />
+      <created>1615727899237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615727899237</updated>
+      <workItem from="1615727900791" duration="1806000" />
+      <workItem from="1615729927564" duration="14105000" />
+      <workItem from="1615749967089" duration="14553000" />
+      <workItem from="1615814804044" duration="11373000" />
+      <workItem from="1615842606004" duration="10256000" />
+      <workItem from="1615901186081" duration="13777000" />
+      <workItem from="1615927017080" duration="6868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="340" width="706" height="431" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615823857861">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="602" y="340" width="706" height="431" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1615823857861" />
+    <state x="1107" y="228" width="530" height="598" key="FileChooserDialogImpl" timestamp="1615905725780">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1107" y="228" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1615905725780" />
+    <state x="580" y="203" width="759" height="706" key="find.popup" timestamp="1615933136589">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="580" y="203" width="759" height="706" key="find.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1615933136589" />
+    <state x="2876" y="11" width="840" height="1068" key="search.everywhere.popup" timestamp="1615750482415">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="956" y="45" width="840" height="1034" key="search.everywhere.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1615733416063" />
+    <state x="2876" y="11" width="840" height="1068" key="search.everywhere.popup/1920.0.1920.1080/0.34.1920.1046@1920.0.1920.1080" timestamp="1615750482415" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/constants/viewConstants.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/actions/index.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
