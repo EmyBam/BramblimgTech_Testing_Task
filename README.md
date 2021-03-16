@@ -1,3 +1,3 @@
-# BramblingTech_Testing_Task
+# BramblingTech Testing Task
 
 from Elena Mykhailiuk
